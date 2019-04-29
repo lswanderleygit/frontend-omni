@@ -73,3 +73,9 @@ libs
 axios -> requisições http
 
 react-router-dom -> lib para lidar com navegação
+
+date-fns -> lidar com datas dentro do react
+
+react-dropzone -> funcionalidade de arrastar arquivos para fazer upload
+
+socket.io-client -> consumir o socket.io do backend
